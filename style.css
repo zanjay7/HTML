@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-image: url(download.jfif);background-repeat: no-repeat;
+}
+th{
+    /* background-color: chartreuse; */
+    color: white;
+    height: 30px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+td{
+   /* background-color: cornsilk; */
+   border-color: white;
+}
+table{
+    border-collapse: collapse;
+    width: 30%;
+}
+table,th{
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-color: white;
+
+   
+}
+
+table,th,td{
+    font-size: x-small;
+}
