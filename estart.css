@@ -1,0 +1,75 @@
+body{
+    font-family: sans-serif;
+}
+header{
+    display: flex;
+    
+
+}
+.logo{
+    margin-left: 4%;
+    font-size: larger;
+}
+header a{
+    padding: 0 10px;
+    margin-top: 15px;
+    color: black;
+    text-decoration: none;
+}
+ header nav{
+    padding-left: 750px;
+}
+.Home{
+    color: rgb(65, 192, 29);
+}
+.drop{
+    border-color: white;
+    font-size: 17px;
+}
+.h2{
+    font-size: xx-large;
+}
+.div1{
+    background-color: whitesmoke;
+    
+    padding-left: 4%;
+    padding-top: 8%;
+    font-family: sans-serif;
+    width: 100%;
+    
+    
+    
+}
+.Get{
+    background-color: rgb(65, 192, 29);
+    border-radius: 30px;
+    color: white;
+    padding: 10px 30px;
+    border-style: none;
+}
+.watch{
+    background-color: transparent;
+    border-radius: 30px;
+    color: rgb(65, 192, 29);
+    padding: 10px 30px;
+    border-style: none;
+    font-weight: bold;
+    
+
+}
+.main{
+    display: flex;
+    background-color: whitesmoke;
+}
+img{
+    width: 500px;
+    margin-right: 10px;
+}
+.new{
+    background-color: whitesmoke;
+}
+.lorem{
+    background-color: white;
+    background: cover;
+}
+
